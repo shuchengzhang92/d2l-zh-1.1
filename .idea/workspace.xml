@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffa6a0a2-b087-4fa5-a914-c5b9f8e6a518" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sU2f9UqRCjjku4LKvxmsqYzpVF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shucheng\Desktop\d2l-zh-1.1\deep_learning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.debug_test">
+    <configuration name="alexnet_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="d2l-zh-1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_learning/alexnet_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cnn_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="d2l-zh-1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\shucheng\Desktop\d2l-zh-1.1\deep_learning\cnn_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="debug_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="d2l-zh-1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_learning/debug_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="densenet_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="d2l-zh-1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\shucheng\Desktop\d2l-zh-1.1\deep_learning\densenet_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jay_lyrics_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="d2l-zh-1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\shucheng\Desktop\d2l-zh-1.1\deep_learning\jay_lyrics_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.debug_test" />
+        <item itemvalue="Python.alexnet_test" />
+        <item itemvalue="Python.jay_lyrics_test" />
+        <item itemvalue="Python.cnn_test" />
+        <item itemvalue="Python.densenet_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffa6a0a2-b087-4fa5-a914-c5b9f8e6a518" name="Default Changelist" comment="" />
+      <created>1620912947846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620912947846</updated>
+      <workItem from="1620912953637" duration="4410000" />
+      <workItem from="1621254587270" duration="6541000" />
+      <workItem from="1621430534785" duration="4009000" />
+      <workItem from="1621605374175" duration="599000" />
+      <workItem from="1621746775766" duration="6221000" />
+      <workItem from="1621863135127" duration="5835000" />
+      <workItem from="1621947659446" duration="4791000" />
+      <workItem from="1622033755817" duration="5043000" />
+      <workItem from="1622268122790" duration="3520000" />
+      <workItem from="1622360073065" duration="3825000" />
+      <workItem from="1622468476838" duration="2525000" />
+      <workItem from="1622557159558" duration="1506000" />
+      <workItem from="1623241999188" duration="1326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="145" key="#Notifications" timestamp="1622470080139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="378" y="145" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1622470080139" />
+    <state x="340" y="199" width="1144" height="760" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622557399919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="340" y="199" width="1144" height="760" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622557399919" />
+    <state x="340" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1017@0.23.1920.1017" timestamp="1620915140698" />
+    <state x="447" y="388" width="490" height="264" key="Github.CreateGistDialog" timestamp="1623243760507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="447" y="388" width="490" height="264" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623243760507" />
+    <state x="508" y="382" width="346" height="276" key="Github.ShareDialog" timestamp="1623243782048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="508" y="382" width="346" height="276" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623243782048" />
+    <state width="904" height="518" key="GridCell.Tab.0.bottom" timestamp="1622558080577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="518" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622558080577" />
+    <state width="1484" height="252" key="GridCell.Tab.0.bottom/0.23.1920.1017@0.23.1920.1017" timestamp="1620917062655" />
+    <state width="904" height="518" key="GridCell.Tab.0.center" timestamp="1622558080577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="518" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622558080577" />
+    <state width="1484" height="252" key="GridCell.Tab.0.center/0.23.1920.1017@0.23.1920.1017" timestamp="1620917062655" />
+    <state width="904" height="518" key="GridCell.Tab.0.left" timestamp="1622558080577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="518" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622558080577" />
+    <state width="1484" height="252" key="GridCell.Tab.0.left/0.23.1920.1017@0.23.1920.1017" timestamp="1620917062654" />
+    <state width="904" height="518" key="GridCell.Tab.0.right" timestamp="1622558080577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="518" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622558080577" />
+    <state width="1484" height="252" key="GridCell.Tab.0.right/0.23.1920.1017@0.23.1920.1017" timestamp="1620917062655" />
+    <state width="904" height="518" key="GridCell.Tab.1.bottom" timestamp="1622558082251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="518" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622558082251" />
+    <state width="904" height="518" key="GridCell.Tab.1.center" timestamp="1622558082250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="518" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622558082250" />
+    <state width="904" height="518" key="GridCell.Tab.1.left" timestamp="1622558082250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="518" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622558082250" />
+    <state width="904" height="518" key="GridCell.Tab.1.right" timestamp="1622558082251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="904" height="518" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622558082251" />
+    <state x="-18" y="151" width="1260" height="883" key="SettingsEditor" timestamp="1623244362806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-18" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1623244362806" />
+    <state x="343" y="157" width="1260" height="883" key="SettingsEditor/0.23.1920.1017@0.23.1920.1017" timestamp="1620916450038" />
+    <state x="0" y="197" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1622557563089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="197" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1622557563089" />
+    <state x="465" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1622038553604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="465" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1622038553604" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$jay_lyrics_test.coverage" NAME="jay_lyrics_test Coverage Results" MODIFIED="1622361898552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$vgg_test.coverage" NAME="vgg_test Coverage Results" MODIFIED="1621869494731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$resnet_test.coverage" NAME="resnet_test Coverage Results" MODIFIED="1622037636881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$cnn_test.coverage" NAME="cnn_test Coverage Results" MODIFIED="1622268948778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$nin_test.coverage" NAME="nin_test Coverage Results" MODIFIED="1621948895148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$house_price.coverage" NAME="house_price Coverage Results" MODIFIED="1621263058190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$densenet_test.coverage" NAME="densenet_test Coverage Results" MODIFIED="1622038889102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$googlenet_test.coverage" NAME="googlenet_test Coverage Results" MODIFIED="1621952837222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1621757126851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$test.coverage" NAME="test Coverage Results" MODIFIED="1621432405333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$lenet_test.coverage" NAME="lenet_test Coverage Results" MODIFIED="1621761966933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$debug_test.coverage" NAME="debug_test Coverage Results" MODIFIED="1622558080398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deep_learning" />
+    <SUITE FILE_PATH="coverage/d2l_zh_1_1$alexnet_test.coverage" NAME="alexnet_test Coverage Results" MODIFIED="1621867355611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
